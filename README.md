@@ -6,7 +6,7 @@
   Student Building my own Linux workflow for personal projects as well as school work.
 </p>
 
-<p>
+<p align="center">
   <a href="https://spyue.github.io">
     <img src="https://img.shields.io/badge/website-your--site.dev-3c4536?style=for-the-badge&labelColor=322d28" alt="My website" />
   </a>
